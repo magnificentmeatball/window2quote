@@ -10,8 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 You will need to following dependencies:
   #### ruby https://rubyinstaller.org/downloads/
-  #### sqlite3 https://www.sqlite.org/index.html
-  #### Node.js https://nodejs.org/en/
+  #### sqlite3 https://www.sqlite.org/index.html gem install sqlite3-ruby
+  #### Node.js https://nodejs.org/en/ 
   #### Yarn https://yarnpkg.com/lang/en/docs/install/#windows-stable
   #### rails https://guides.rubyonrails.org/getting_started.html
 
