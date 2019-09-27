@@ -75,8 +75,7 @@ pencil sketch of image: https://www.freecodecamp.org/news/sketchify-turn-any-ima
 convert html to pdf: https://stackoverflow.com/questions/391005/convert-html-css-to-pdf-with-php
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+"MagnificentMeatball"
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
