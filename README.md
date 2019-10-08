@@ -70,9 +70,12 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Resources
+pencil sketch of image: https://www.freecodecamp.org/news/sketchify-turn-any-image-into-a-pencil-sketch-with-10-lines-of-code-cf67fa4f68ce/
+convert html to pdf: https://stackoverflow.com/questions/391005/convert-html-css-to-pdf-with-php
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+## Authors
+"MagnificentMeatball"
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
