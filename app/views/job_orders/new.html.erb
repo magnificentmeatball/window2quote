@@ -1,0 +1,37 @@
+<h1>New Job Order</h1>
+
+<%= form_with scope: :job_order, url: job_orders_path, local: true do |form| %>
+  <p>
+    <%= form.label :jobid, "Job ID" %><br>
+    <%= form.text_field :jobid %>
+  </p>
+  
+  <p>
+    <%= form.label :jobsite, "Job Site" %><br>
+    <%= form.text_field :jobsite %>
+  </p>
+
+  <p>
+    <%= form.label :customerCell, "Phone Number" %><br>
+    <%= form.telephone_field :customerCell %>
+  </p>
+ 
+  <p>
+    <%= form.label :contractDate, "Contract Date" %><br>
+    <%= form.date_field :contractDate %>
+  </p>
+ 
+  <p>
+    <%= form.label :note, "Note" %><br>
+    <%= form.text_area :note %>
+  </p>
+
+  <p>
+    <%= form.label :price, "Total Price Before Tax" %><br>
+    <%= form.number_field :price%>
+  </p>
+
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>

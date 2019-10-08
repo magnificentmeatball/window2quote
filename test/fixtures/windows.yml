@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  style: MyString
+  length: 1.5
+  width: 1.5
+  height: 1.5
+  colour: MyString
+  glassType: MyString
+  estimate: 9.99
+  installation: MyString
+
+two:
+  style: MyString
+  length: 1.5
+  width: 1.5
+  height: 1.5
+  colour: MyString
+  glassType: MyString
+  estimate: 9.99
+  installation: MyString
